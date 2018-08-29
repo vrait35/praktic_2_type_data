@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\1csharp\1csharp\bin\Debug\1csharp.exe.config
+C:\Users\anuar\source\repos\1csharp\1csharp\bin\Debug\1csharp.exe
+C:\Users\anuar\source\repos\1csharp\1csharp\bin\Debug\1csharp.pdb
+C:\Users\anuar\source\repos\1csharp\1csharp\obj\Debug\1csharp.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\1csharp\1csharp\obj\Debug\1csharp.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\1csharp\1csharp\obj\Debug\1csharp.exe
+C:\Users\anuar\source\repos\1csharp\1csharp\obj\Debug\1csharp.pdb
